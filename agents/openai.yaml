@@ -1,0 +1,4 @@
+name: kou-bo-bao-zhuang
+display_name: 口播动效包装
+description: 仅供 Codex 使用的口播动效执行 Skill。收到已确认的动效施工 Prompt 后，用 p5.js 生成竖屏 9:16 的 index.html，检查效果，并按本次明确要求交付 HTML、WebM 或 MP4。
+invocation: 使用 kou-bo-bao-zhuang Skill，按已确认的动效施工 Prompt 执行，不要重新决定内容重点或创意方向。
